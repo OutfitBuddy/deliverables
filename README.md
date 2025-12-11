@@ -60,7 +60,7 @@ The solution is built on a robust **Hybrid Cloud Architecture**, leveraging Micr
 | **APIs** | **Weather API & Outlook** | External data sources for context awareness. |
 
 ### Architecture Diagram
-*(Add your diagram screenshot here, e.g., `![Architecture](./images/architecture.png)`)*
+![Architecture](./architecture.png)
 
 ### Data Flow
 1.  **Context:** App fetches Weather & Schedule.
